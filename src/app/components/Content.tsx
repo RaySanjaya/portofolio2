@@ -17,7 +17,7 @@ export const Content = () => {
         <section>
           <Cart />
         </section>
-        <section className="xl:ml-5 lg:ml-5 md:ml-5 mt-5 xl:mt-0 lg:mt-0 md:mt-0">
+        <section className="xl:ml-5 lg:ml-5 md:ml-5 mt-5 xl:mt-0 lg:mt-0 md:mt-0 w-full">
           <Description />
         </section>
       </div>
