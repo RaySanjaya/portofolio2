@@ -12,7 +12,7 @@ export const Content = () => {
   }, [])
 
   return (
-    <div className="mt-12 mb-12">
+    <div className="mt-4 xl:mt-12 lg:mt-12 md:mt-12 mb-12">
       <div className="flex flex-col xl:flex-row lg:flex-row md:flex-row">
         <section>
           <Cart />
