@@ -15,7 +15,9 @@ export const FrontEnd = () => {
             </u>
           </h4>
           <div className="space-y-5">
-            <p className="font-content">Here are two front-end frameworks that I commonly use in my projects.</p>
+            <p className="font-content">I am also a Front-End Developer who has a keen interest in developing attractive and responsive user interfaces.</p>
+            <p className="font-content"> With a strong focus on beautiful design and intuitive user experience, I combine creativity with technical expertise to create exceptional web solutions.</p>
+            <p className="font-content">Here are two Front-End Frameworks that I commonly use in my projects.</p>
             <div className="flex flex-row flex-wrap">
               <div className="flex flex-row">
                 <img

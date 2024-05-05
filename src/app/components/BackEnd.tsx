@@ -15,9 +15,9 @@ export const BackEnd = () => {
             </u>
           </h4>
           <div className="space-y-5">
-            <p className="font-content">I possess expertise in various aspects of back-end development, including crafting complex application logic to meet business needs, database management such as designing schemas, and query optimization, as well as seamless integration between front-end and back-end of web applications.</p>
-            <p className="font-content">I also understand web security practices, including user access management, protection against attacks, and the use of HTTPS. Additionally, I have experience in developing responsive and robust APIs, along with proficiency in testing, debugging, and ensuring the scalability and performance of back-end applications.</p>
-            <p className="font-content">Here are two back-end frameworks that I commonly use in my projects.</p>
+            <p className="font-content">I possess expertise in various aspects of Back-End development, including crafting complex application logic to meet business needs, database management such as designing schemas, and query optimization, as well as seamless integration between Front-End and Back-End of Web Applications.</p>
+            <p className="font-content">I also understand web security practices, including user access management, protection against attacks, and the use of HTTPS. Additionally, I have experience in developing responsive and robust APIs, along with proficiency in testing, debugging, and ensuring the scalability and performance of Back-End applications.</p>
+            <p className="font-content">Here are two Back-End Frameworks that I commonly use in my projects.</p>
             <div className="flex flex-row flex-wrap">
               <div className="flex flex-row">
                 <img
