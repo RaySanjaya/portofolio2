@@ -3,7 +3,7 @@ import { WhatIDo } from "./WhatIDo"
 export const AboutMe = () => {
   return (
     <>
-      <div className="shadow-box">
+      <div className="shadow-box" data-aos='fade-left'>
         <div className='p-9 space-y-5'>
           <h2 className="text-white text-3xl">About Me</h2>
           <hr />

@@ -11,7 +11,7 @@ export const Navigation = ({ current_menu, setCurrentMenu }: NavigationProps) =>
   if (current_menu === 3) contactMeClass = 'pe-4 active'
 
   return (
-    <div className="mb-5">
+    <div className="mb-5" data-aos='zoom-in'>
       <div className="flex justify-center xl:justify-start lg:justify-start md:justify-start sm:justify-start">
         <ul className="flex flex-row">
           <li className={ landingClass } style={{ cursor: 'pointer' }} onClick={() => { setCurrentMenu(1) }}>Landing</li>

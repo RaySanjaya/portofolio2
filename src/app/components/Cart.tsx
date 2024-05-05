@@ -1,8 +1,9 @@
 import { FacebookIcon, GiftIcon, GithubIcon, InstagramIcon, LinkedinIcon, MailIcon, MapPinIcon, SmartphoneIcon } from "lucide-react"
 
 export const Cart = () => {
+
   return (
-    <div className="infos w-ful xl:w-96 lg:w-96 md:w-96">
+    <div className="infos w-ful xl:w-96 lg:w-96 md:w-96" data-aos='fade-down'>
       <div className="shadow-box ps-8 pe-8 pb-8 pt-0">
         <div className="flex justify-center">
           <img src='3d-headshot.png' alt="profile" />
