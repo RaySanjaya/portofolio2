@@ -36,7 +36,7 @@ export const Cart = () => {
               <div className=''>
                 <small className='text-gray-400'>Phone</small>
                 <br />
-                <label className="font-content">0813 7449 8366</label>
+                <label className="font-content">+62 813 XXXX XX66</label>
               </div>
             </div>
             <hr />
