@@ -2,7 +2,7 @@ import { Content } from "./components/Content";
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <div className="container-content">
         <Content />
       </div>

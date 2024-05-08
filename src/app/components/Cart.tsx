@@ -3,7 +3,7 @@ import { FacebookIcon, GiftIcon, GithubIcon, InstagramIcon, LinkedinIcon, MailIc
 export const Cart = () => {
 
   return (
-    <div className="shadow-box w-ful xl:w-96 lg:w-96 md:w-96" data-aos='fade-down'>
+    <div className="shadow-box w-full xl:w-96 lg:w-96 md:w-96" data-aos='fade-down'>
       <div className="ps-8 pe-8 pb-8 pt-8 pt-0">
         <div className="flex justify-center">
           <img src='dp.jpeg' alt="profile" className="w-56 rounded-xl border-transparent" />
@@ -14,17 +14,16 @@ export const Cart = () => {
         </div>
 
         <div className='flex justify-center icon-boxes p-2'>
-          <a href="#" className='pe-2'>
+          <a href="https://www.instagram.com/raysnjya/?igsh=ODkyaWF1ZmU0djZl" target='_blank' className='pe-2'>
             <InstagramIcon size={32} strokeWidth={2} absoluteStrokeWidth className="text-gray-400 hover:text-white" />
           </a>
-          <a href="#" className='pe-2'>
-            <i className='iconoir-facebook-tag social-media fs-2' />
+          <a href="https://www.facebook.com/share/XTwGiaXwoCtrNZjA/?mibextid=qi2Omg" target='_blank' className='pe-2'>
             <FacebookIcon size={32} strokeWidth={2} absoluteStrokeWidth className="text-gray-400 hover:text-white" />
           </a>
-          <a href="#" className='pe-2'>
+          <a href="https://github.com/RaySanjaya" target='_blank' className='pe-2'>
             <GithubIcon size={32} strokeWidth={2} absoluteStrokeWidth className="text-gray-400 hover:text-white" />
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEO_T67Rqw4hQAAAY9WHHZoW0ZIjo3cOCnWpzpN9iiX0wUpWc7J2gxktDybm6EIVcG0zEFZJ9NAQKJqgT7KG0zxpEPRGQv3CydMOMr8JkpLaZigO7-0zmhrVwE99dfn3kmYxp0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fray-sanjaya-1159ab201%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target='_blank'>
             <LinkedinIcon size={32} strokeWidth={2} absoluteStrokeWidth className="text-gray-400 hover:text-white" />
           </a>
         </div>
@@ -34,7 +33,7 @@ export const Cart = () => {
             <div className='flex items-center w-14'>
               <SmartphoneIcon size={32} strokeWidth={2} absoluteStrokeWidth className="text-gray-400" />
             </div>
-            <div className=''>
+            <div>
               <small className='text-gray-400'>Phone</small>
               <br />
               <label className="font-content">+62 813 XXXX XX66</label>
